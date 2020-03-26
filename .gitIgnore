@@ -1,0 +1,6 @@
+#Ignore Entry
+index.php
+*.jar
+*.java
+*.class
+
